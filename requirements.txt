@@ -1,0 +1,14 @@
+matplotlib
+torch
+torchvision
+opencv-python
+numpy
+pyside6
+pynput
+pyautogui
+scikit-learn
+pandas
+tqdm
+tensorboard
+schedule
+ddddocr
